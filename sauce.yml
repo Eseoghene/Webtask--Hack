@@ -1,0 +1,3 @@
+language: "javascript"
+framework: "webdriverio"
+configPath: "wdio.conf.js" 
