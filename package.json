@@ -3,7 +3,12 @@
 	"version": "0.0.1",
 	"description": "A simple IFTT channel that creates a Trello Card anytime an automated test case run Fails on saucelabs",
 	
-
+"dependencies": {
+		"selenium-webdriver":"*",
+		"saucelabs":"*",
+		"request": "*",
+		"assert":"*"
+	},
 	 "scripts": {
 			"start": "webtask.js"
 	}
