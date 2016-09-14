@@ -3,7 +3,6 @@ var assert = require('assert'),
     webdriver = require('selenium-webdriver'),
     SauceLabs = require("saucelabs"),
     request = require('request'),
-    async= require('async'),
     username = 'EseogheneM',
     accessKey = '175c59ab-7958-408b-a3d0-f6e97ebef613',
     saucelabs = new SauceLabs({
