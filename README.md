@@ -35,8 +35,9 @@ npm install -g mocha
 10. Enter this text at Title
 
 >The test "{{Value1}}" Failed on Saucelabs
-  
+
 11. Enter this text at description
+ 
 >Testname: {{Value1}}<br>
 >Video URL: {{Value2}}<br>
 >Test Log: {{Value3}}
@@ -45,8 +46,10 @@ npm install -g mocha
 
 Locate this line of code 
 `http://maker.ifttt.com/trigger/test/with/key/fx95xlcNnQw9_zzIyobxv` 
-Replace 
-`test` with the IFTT event name and `fx95xlcNnQw9_zzIyobxv` with your Maker Channel key. To get Key visit [IFTT Maker Channel](https://iftt.com/maker)
+
+Replace `test` with the IFTT event name and `fx95xlcNnQw9_zzIyobxv` with your Maker Channel key. 
+
+To get Key visit [IFTT Maker Channel](https://iftt.com/maker)
 
 13. Save the file and close text editor
 
