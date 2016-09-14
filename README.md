@@ -54,10 +54,11 @@ To get Key visit [IFTT Maker Channel](https://iftt.com/maker)
 13. Save the file and close text editor
 
 To try, run this command in your terminal or command prompt
+
 `mocha visitvalidtitle.js -t 30000`
 
 
-A trello Card should be created containing
+A trello Card should be created  in specified Dashboard containing
 
 Testname: 
 Video URL: 
