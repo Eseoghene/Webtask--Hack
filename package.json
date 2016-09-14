@@ -1,0 +1,9 @@
+{
+	"name":"hack01",
+	"version": "0.0.1",
+	"description": "Common "
+	,
+	 "scripts": {
+			"start": "webtask.js"
+	}
+	}
